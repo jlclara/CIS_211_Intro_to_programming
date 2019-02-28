@@ -1,0 +1,6 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1 - Electric Customer\bin\Debug\CS1 - Electric Customer.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1 - Electric Customer\bin\Debug\CS1 - Electric Customer.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1 - Electric Customer\bin\Debug\CS1 - Electric Customer.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1 - Electric Customer\obj\Debug\CS1 - Electric Customer.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1 - Electric Customer\obj\Debug\CS1 - Electric Customer.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1 - Electric Customer\obj\Debug\CS1 - Electric Customer.csprojResolveAssemblyReference.cache

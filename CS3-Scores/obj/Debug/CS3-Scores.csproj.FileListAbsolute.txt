@@ -1,0 +1,6 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Scores\bin\Debug\CS3-Scores.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Scores\bin\Debug\CS3-Scores.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Scores\bin\Debug\CS3-Scores.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Scores\obj\Debug\CS3-Scores.csprojResolveAssemblyReference.cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Scores\obj\Debug\CS3-Scores.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Scores\obj\Debug\CS3-Scores.pdb

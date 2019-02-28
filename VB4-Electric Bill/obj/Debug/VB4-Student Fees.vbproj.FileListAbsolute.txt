@@ -1,0 +1,14 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\bin\Debug\VB4-Student Fees.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\bin\Debug\VB4-Student Fees.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\bin\Debug\VB4-Student Fees.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\bin\Debug\VB4-Student Fees.xml
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\obj\Debug\VB4_Student_Fees.studentFeesForm.resources
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\obj\Debug\VB4_Student_Fees.Resources.resources
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\obj\Debug\VB4-Student Fees.vbproj.GenerateResource.Cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\obj\Debug\VB4-Student Fees.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\obj\Debug\VB4-Student Fees.xml
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Student Fees\obj\Debug\VB4-Student Fees.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Electric Bill\bin\Debug\VB4-Student Fees.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Electric Bill\obj\Debug\VB4-Student Fees.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Electric Bill\obj\Debug\VB4-Student Fees.xml
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB4-Electric Bill\obj\Debug\VB4-Student Fees.pdb

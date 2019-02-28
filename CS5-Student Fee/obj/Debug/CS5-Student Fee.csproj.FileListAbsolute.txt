@@ -1,0 +1,6 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Student Fee\bin\Debug\CS5-Student Fee.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Student Fee\bin\Debug\CS5-Student Fee.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Student Fee\bin\Debug\CS5-Student Fee.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Student Fee\obj\Debug\CS5-Student Fee.csprojResolveAssemblyReference.cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Student Fee\obj\Debug\CS5-Student Fee.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Student Fee\obj\Debug\CS5-Student Fee.pdb

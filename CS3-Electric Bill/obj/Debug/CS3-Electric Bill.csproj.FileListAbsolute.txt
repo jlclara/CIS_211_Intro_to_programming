@@ -1,0 +1,6 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Electric Bill\bin\Debug\CS3-Electric Bill.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Electric Bill\bin\Debug\CS3-Electric Bill.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Electric Bill\bin\Debug\CS3-Electric Bill.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Electric Bill\obj\Debug\CS3-Electric Bill.csprojResolveAssemblyReference.cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Electric Bill\obj\Debug\CS3-Electric Bill.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS3-Electric Bill\obj\Debug\CS3-Electric Bill.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1-Welcome\bin\Debug\CS1-Welcome.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1-Welcome\obj\Debug\CS1-Welcome.csprojResolveAssemblyReference.cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1-Welcome\bin\Debug\CS1-Welcome.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1-Welcome\bin\Debug\CS1-Welcome.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1-Welcome\obj\Debug\CS1-Welcome.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS1-Welcome\obj\Debug\CS1-Welcome.pdb

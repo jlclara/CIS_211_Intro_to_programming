@@ -1,0 +1,10 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\bin\Debug\VB1-Electric Calculator.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\bin\Debug\VB1-Electric Calculator.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\bin\Debug\VB1-Electric Calculator.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\bin\Debug\VB1-Electric Calculator.xml
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\obj\Debug\VB1_Electric_Calculator.Resources.resources
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\obj\Debug\VB1-Electric Calculator.vbproj.GenerateResource.Cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\obj\Debug\VB1-Electric Calculator.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\obj\Debug\VB1-Electric Calculator.xml
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\obj\Debug\VB1-Electric Calculator.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Electric Calculator\obj\Debug\VB1_Electric_Calculator.calculatorForm.resources

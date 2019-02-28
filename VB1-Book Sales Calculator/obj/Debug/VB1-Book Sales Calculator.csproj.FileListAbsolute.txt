@@ -1,0 +1,9 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\bin\Debug\VB1-Book Sales Calculator.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.calculatorForm.resources
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\obj\Debug\VB1_Book_Sales_Calculator.Properties.Resources.resources
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.csproj.GenerateResource.Cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\VB1-Book Sales Calculator\obj\Debug\VB1-Book Sales Calculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Electric Bill Calculator\bin\Debug\CS5-Electric Bill Calculator.exe.config
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Electric Bill Calculator\obj\Debug\CS5-Electric Bill Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Electric Bill Calculator\bin\Debug\CS5-Electric Bill Calculator.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Electric Bill Calculator\bin\Debug\CS5-Electric Bill Calculator.pdb
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Electric Bill Calculator\obj\Debug\CS5-Electric Bill Calculator.exe
+C:\Users\Jenny Nguyen\Desktop\Fall 2015\CIS211\CS5-Electric Bill Calculator\obj\Debug\CS5-Electric Bill Calculator.pdb
